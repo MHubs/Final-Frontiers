@@ -38,7 +38,7 @@ export default function Footer() {
       <Container>
         <Row>
           <Col md="3">
-            <h1 className="title">The Final Frontier</h1>
+            {/*<h1 className="title">The Final Frontier</h1>*/}
           </Col>
           <Col md="3">
 
@@ -60,7 +60,7 @@ export default function Footer() {
           </Col>
           <Col md="3">
             <div style={creditStyle}>
-              <h4 className="title">© 2022 All Rights Reserved.</h4>
+              {/*<h4 className="title">© 2022 All Rights Reserved.</h4>*/}
             </div>
           </Col>
         </Row>
