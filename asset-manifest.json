@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Final-Frontiers/static/css/main.dec6f128.chunk.css",
+    "main.js": "/Final-Frontiers/static/js/main.5af7576f.chunk.js",
+    "main.js.map": "/Final-Frontiers/static/js/main.5af7576f.chunk.js.map",
+    "runtime-main.js": "/Final-Frontiers/static/js/runtime-main.a5e62a69.js",
+    "runtime-main.js.map": "/Final-Frontiers/static/js/runtime-main.a5e62a69.js.map",
+    "static/js/2.40ddbead.chunk.js": "/Final-Frontiers/static/js/2.40ddbead.chunk.js",
+    "static/js/2.40ddbead.chunk.js.map": "/Final-Frontiers/static/js/2.40ddbead.chunk.js.map",
+    "index.html": "/Final-Frontiers/index.html",
+    "static/css/main.dec6f128.chunk.css.map": "/Final-Frontiers/static/css/main.dec6f128.chunk.css.map",
+    "static/js/2.40ddbead.chunk.js.LICENSE.txt": "/Final-Frontiers/static/js/2.40ddbead.chunk.js.LICENSE.txt",
+    "static/js/main.5af7576f.chunk.js.LICENSE.txt": "/Final-Frontiers/static/js/main.5af7576f.chunk.js.LICENSE.txt",
+    "static/media/blk-design-system-react.scss": "/Final-Frontiers/static/media/square5.16283001.png",
+    "static/media/Planet_118.png": "/Final-Frontiers/static/media/Planet_118.5323f5c3.png",
+    "static/media/Planet_433.png": "/Final-Frontiers/static/media/Planet_433.336e62fd.png",
+    "static/media/Planet_500.png": "/Final-Frontiers/static/media/Planet_500.d3fc33bb.png",
+    "static/media/dots.png": "/Final-Frontiers/static/media/dots.1e305f98.png",
+    "static/media/nucleo-icons.css": "/Final-Frontiers/static/media/nucleo.bd5cce8b.eot",
+    "static/media/path4.png": "/Final-Frontiers/static/media/path4.cb1d9fab.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a5e62a69.js",
+    "static/js/2.40ddbead.chunk.js",
+    "static/css/main.dec6f128.chunk.css",
+    "static/js/main.5af7576f.chunk.js"
+  ]
+}
